@@ -1,6 +1,0 @@
-pandas
-streamlit 
-tempfile
-os
-matplotlib.pyplot
-plotly.express
